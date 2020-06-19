@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Bungee+Shade|Josefin+Sans|Josefin+Slab|Molle:400i|Playfair+Display|Rajdhani|Satisfy|Shrikhand);
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Josefin Sans';
+	font-size: 18px;
+  	margin: 0px;
+}
+
+h1, h2, h3 {
+	font-family: 'Shrikhand';
+	font-size: 24px;
+	font-weight: bold;
+}
+
+
+a {
+  text-decoration: none;
+  padding-bottom: 20px;
+}
+
